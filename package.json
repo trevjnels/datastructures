@@ -1,0 +1,15 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "me messing around with ds",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.4.0",
+    "mocha": "^6.2.0"
+  }
+}
